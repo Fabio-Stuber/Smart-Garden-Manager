@@ -1,2 +1,2 @@
-# Smart-Garden-Manager
-Der Smart Garden Manager ist eine eigenständige Web-Anwendung zur Garten- und Pflanzen Verwaltung.
+# Smart Garden Manager
+The Smart Garden Manager is a standalone web application for managing gardens and plants.
