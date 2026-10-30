@@ -50,22 +50,22 @@ The Smart Garden Manager bridges the gap between traditional gardening knowledge
 <tr>
 <td align="center">
 <a href="#">
-<img src="https://img.shields.io/badge/Comming%20soon-%20black?style=for-the-badge&logo=serverless&logoColor=11734b&labelColor=dcbc91&color=11734b">
+<img src="https://img.shields.io/badge/Coming%20soon-%20black?style=for-the-badge&logo=serverless&logoColor=11734b&labelColor=dcbc91&color=11734b">
 </a>
 </td>
 <td align="center">
 <a href="#">
-<img src="https://img.shields.io/badge/Comming%20soon-%20black?style=for-the-badge&logo=docker&logoColor=11734b&labelColor=dcbc91&color=11734b">
+<img src="https://img.shields.io/badge/Coming%20soon-%20black?style=for-the-badge&logo=docker&logoColor=11734b&labelColor=dcbc91&color=11734b">
 </a>
 </td>
 <td align="center">
 <a href="#">
-<img src="https://img.shields.io/badge/Comming%20soon-%20black?style=for-the-badge&logo=proxmox&logoColor=11734b&labelColor=dcbc91&color=11734b">
+<img src="https://img.shields.io/badge/Coming%20soon-%20black?style=for-the-badge&logo=proxmox&logoColor=11734b&labelColor=dcbc91&color=11734b">
 </a>
 </td>
 <td align="center">
 <a href="#">
-<img src="https://img.shields.io/badge/Comming%20soon-%20black?style=for-the-badge&logo=homeassistant&logoColor=11734b&labelColor=dcbc91&color=11734b">
+<img src="https://img.shields.io/badge/Coming%20soon-%20black?style=for-the-badge&logo=homeassistant&logoColor=11734b&labelColor=dcbc91&color=11734b">
 </a>
 </td>
 </tr>
